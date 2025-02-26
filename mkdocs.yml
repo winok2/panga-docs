@@ -1,10 +1,10 @@
-site_name: RxKonet Documentation
+site_name: PangaShift Documentation
 theme:
   name: material
   palette:
     scheme: default
-    primary: blue
-    accent: indigo
+    primary: black
+    accent: blue
   features:
     - navigation.tabs
     - navigation.sections
@@ -17,7 +17,11 @@ nav:
   - Installation: installation.md
   - User Guide:
       - Getting Started: user-guide/getting-started.md
-      - Features: user-guide/features.md
+      - Account-settings: user-guide/account-settings.md
+      - Employee-management: user-guide/employee-management.md
+      - Faq: user-guide/faq.md
+      - Entegrations: user-guide/integrations.md
+      - Managing-shifts: user-guide/managing-shifts.md
+      - Notifications: user-guide/notifications.md
   - API Reference: api.md
-  - FAQ: faq.md
   - About: about.md
