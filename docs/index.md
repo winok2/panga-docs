@@ -1,17 +1,19 @@
-# Welcome to MkDocs
+# PangaShift Solutions User Documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Table of Contents
 
-## Commands
+1. [Getting Started](user-guide/getting-started.md)
+2. [Managing Shifts](user-guide/managing-shifts.md)
+3. [Employee Management](user-guide/employee-management.md)
+4. [Notifications & Alerts](user-guide/notifications.md)
+5. [Integrations](user-guide/integrations.md)
+6. [Account Settings](user-guide/account-settings.md)
+7. [Troubleshooting & FAQs](user-guide/faq.md)
 
-- `mkdocs new [dir-name]` - Create a new project.
-- `mkdocs serve` - Start the live-reloading docs server.
-- `mkdocs build` - Build the documentation site.
-- `mkdocs -h` - Print help message and exit.
+---
 
-## Project layout
+## Overview
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+PangaShift Solutions is a healthcare staff scheduling platform designed to optimize workforce management, improve efficiency, and streamline communication.
+
+For detailed usage instructions, refer to the sections above.
