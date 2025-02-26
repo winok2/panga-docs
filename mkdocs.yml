@@ -1,0 +1,23 @@
+site_name: RxKonet Documentation
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: blue
+    accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - User Guide:
+      - Getting Started: user-guide/getting-started.md
+      - Features: user-guide/features.md
+  - API Reference: api.md
+  - FAQ: faq.md
+  - About: about.md
